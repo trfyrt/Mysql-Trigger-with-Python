@@ -2,20 +2,6 @@
 
 This project demonstrates a simple Student Grade Management System using Python and MySQL. It includes the creation of a MySQL database and table, the insertion of student records, and the assignment of grades based on their scores using MySQL triggers.
 
-## Table of Contents
-
-- [Introduction](#introduction)
-- [Features](#features)
-- [Prerequisites](#prerequisites)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Database Schema](#database-schema)
-- [Trigger Details](#trigger-details)
-- [Code Explanation](#code-explanation)
-- [Contribution](#contribution)
-- [License](#license)
-- [Contact](#contact)
-
 ## Introduction
 
 The Student Grade Management System is designed to automatically assign grades to students based on their scores upon insertion into the database. This is achieved through the use of a MySQL trigger, which evaluates the score and sets the appropriate grade before the record is finalized in the database.
